@@ -1,0 +1,114 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
+    "width": 300,
+    "height": 600,
+    "title": "Food and Cal",
+    "data": {
+        "url": "food.csv"
+    },
+    
+    "encoding": {
+        "x": {
+            "field": "calories",
+            "type": "quantitative",
+            "title": "cals"
+        },
+        "y": {
+            "field": "Food",
+            "type": "nominal",
+            "title":null
+        },
+        "color":{
+            "value": "#215ead"
+        },
+        "opacity": {
+            "condition": {
+                "selection": "hover",
+                "value": 1
+            },
+            "value": 0.2
+        }
+    },
+    "layer": [
+        {
+            "description": "transparent layer to make it easier to trigger selection",
+            "selection": {
+                "hover": {
+                    "type": "single",
+                    "on": "mouseover",
+                    "empty": "all",
+                    "fields": [
+                        "Food"
+                    ]
+                }
+            },
+            "mark": {
+                "type": "bar",
+                "point": true,
+                "strokeWidth": 30,
+                "stroke": "transparent"
+            },
+            "encoding": {
+                "tooltip": [
+                    {
+                        "field": "Food",
+                        "type": "nominal",
+                        "title": "Food:"
+                    },
+                    {
+                        "field": "Serving",
+                        "type": "nominal",
+                        "title": "Serving size"
+                    },
+                    {
+                        "field":"calories",
+                        "type": "quantitative",
+                        "title": "Calories"
+                    }
+                ]
+            }
+        },
+        {
+            "mark": "bar"
+        },
+        {
+            "encoding": {
+                "x": {
+                    "aggregate": "max",
+                    "field": "calories"
+                },
+                "y": {
+                    "aggregate": {
+                        "argmax": "calories"
+                    },
+                    "field": "calories"
+                }
+            },
+            "layer": [
+                
+            ]
+        }
+    ],
+    "config": {
+        "view": {
+            "stroke": null
+        },
+        "axis": {
+            "labelFont": "Oxygen",
+            "titleFont": "Oxygen"
+        },
+        "legend": {
+            "labelFont": "Oxygen",
+            "titleFont": "Oxygen"
+        },
+        "header": {
+            "labelFont": "Oxygen",
+            "titleFont": "Oxygen"
+        },
+        "title": {
+            "font": "Oxygen",
+            "fontSize": 20,
+            "fontWeight": 600
+        }
+    }
+}

@@ -1,0 +1,137 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
+    "width": 500,
+    "height": 600,
+    "title": "Deaths",
+    "data": {
+        "url": "risk.csv"
+    },
+    "encoding": {
+        "x": {
+            "field": "Year",
+            "type": "temporal",
+            "title": "Year"
+        },
+        "y": {
+            "field": "Amount",
+            "type": "quantitative",
+            "title": "Total Deaths from Risk"
+        },
+        "color": {
+            "condition": {
+                "selection": "hover",
+                "field": "Risk",
+                "type": "nominal",
+                "legend": null
+            },
+            "value": "grey"
+        },
+        "opacity": {
+            "condition": {
+                "selection": "hover",
+                "value": 1
+            },
+            "value": 0.2
+        }
+    },
+    "layer": [
+        {
+            "description": "transparent layer to make it easier to trigger selection",
+            "selection": {
+                "hover": {
+                    "type": "multi",
+                    "on": "mouseover",
+                    "empty": "all",
+                    "fields": [
+                        "Risk"
+                    ]
+                }
+            },
+            "mark": {
+                "type": "line",
+                "point": true,
+                "strokeWidth": 1,
+                "stroke": "transparent"
+            },
+            "encoding": {
+                "tooltip": [
+                    {
+                        "field": "Amount",
+                        "type": "quantitative",
+                        "title": "Total Deaths"
+                    },
+                    {
+                        "field": "Year",
+                        "type": "temporal",
+                        "timeUnit": "year",
+                        "title": "Year"
+                    },
+                    {
+                        "field": "Risk",
+                        "type": "nominal"
+                    }
+                ]
+            }
+        },
+        {
+            "mark": "line"
+        },
+        {
+            "encoding": {
+                "x": {
+                    "aggregate": "max",
+                    "field": "Year"
+                },
+                "y": {
+                    "aggregate": {
+                        "argmax": "Year"
+                    },
+                    "field": "Amount"
+                }
+            },
+            "layer": [
+                {
+                    "mark": {
+                        "type": "circle"
+                    }
+                },
+                {
+                    "mark": {
+                        "type": "text",
+                        "align":"left",
+                        "font": "Oxygen",
+                        "filled": true
+                    },
+                    "encoding": {
+                        "text": {
+                            "field": "Risk",
+                            "type": "nominal"
+                        }
+                    },"title": "Cause of Death"
+                }
+            ]
+        }
+    ],
+    "config": {
+        "view": {
+            "stroke": null
+        },
+        "axis": {
+            "labelFont": "Oxygen",
+            "titleFont": "Oxygen"
+        },
+        "legend": {
+            "labelFont": "Oxygen",
+            "titleFont": "Oxygen"
+        },
+        "header": {
+            "labelFont": "Oxygen",
+            "titleFont": "Oxygen"
+        },
+        "title": {
+            "font": "Oxygen",
+            "fontSize": 16,
+            "fontWeight": 600
+        }
+    }
+}

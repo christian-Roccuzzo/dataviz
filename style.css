@@ -1,0 +1,41 @@
+body {
+    font-family: 'Source Sans Pro', sans-serif;
+    background-color: #215ead;
+}
+
+h1{
+    font-weight: 700;
+    border: 2px solid #215ead;
+    border-radius: 25px;
+    color:rgb(40, 94, 211);
+    background-color: rgba(187, 216, 241, 0.486);
+    text-align:center;
+    
+  }
+h2{
+    color:rgb(40, 94, 211);
+    text-align:center; 
+    background-color: rgba(187, 216, 241, 0.486);
+}
+h3{
+    text-align:center;
+}
+.middle{
+     width: 1000px;
+     background-color: white;
+     margin: auto;
+     padding: 40px;
+     padding-top: 30px;
+  }
+.right {
+    padding-left: 20px;
+  }
+.left{
+    padding-right: 20px;
+  }
+.pure-g{
+    margin-bottom: 20px;
+  }
+.footer{
+      font-size: 12px;
+  }

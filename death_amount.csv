@@ -1,0 +1,241 @@
+﻿Death,Year,Amount
+Meningitis,1990,124157.3
+Meningitis,1991,127085.7
+Meningitis,1992,131426.9
+Meningitis,1993,137697.1
+Meningitis,1994,141474.4
+Meningitis,1995,148208.8
+Meningitis,1996,153243.1
+Meningitis,1997,158752.9
+Meningitis,1998,165305.5
+Meningitis,1999,172663.8
+Meningitis,2000,178058.4
+Meningitis,2001,181687.6
+Meningitis,2002,186601.1
+Meningitis,2003,190068.3
+Meningitis,2004,191925.1
+Meningitis,2005,192887.9
+Meningitis,2006,196071.2
+Meningitis,2007,198242.3
+Meningitis,2008,202766.7
+Meningitis,2009,206373.9
+Meningitis,2010,208916.2
+Meningitis,2011,211107.1
+Meningitis,2012,215533.8
+Meningitis,2013,224235.3
+Meningitis,2014,235480.3
+Meningitis,2015,233197.8
+Meningitis,2016,231481.6
+Meningitis,2017,228047.4
+Meningitis,2018,223856.1
+Meningitis,2019,221240.7
+Alzheimers,1990,411452.3
+Alzheimers,1991,397013
+Alzheimers,1992,381819.2
+Alzheimers,1993,367255.6
+Alzheimers,1994,352766.8
+Alzheimers,1995,439722.9
+Alzheimers,1996,452633.4
+Alzheimers,1997,465975.6
+Alzheimers,1998,480220.6
+Alzheimers,1999,495816
+Alzheimers,2000,513352.2
+Alzheimers,2001,532913.6
+Alzheimers,2002,552586.2
+Alzheimers,2003,572564.9
+Alzheimers,2004,595483.2
+Alzheimers,2005,618440.1
+Alzheimers,2006,643400.9
+Alzheimers,2007,670465.7
+Alzheimers,2008,697935.4
+Alzheimers,2009,727073.2
+Alzheimers,2010,755346.8
+Alzheimers,2011,784129.7
+Alzheimers,2012,813188.2
+Alzheimers,2013,843280.5
+Alzheimers,2014,875005.1
+Alzheimers,2015,909882.8
+Alzheimers,2016,945204.5
+Alzheimers,2017,981359.6
+Alzheimers,2018,1014187.6
+Alzheimers,2019,1014187.6
+Parkinsons,1990,104525.2
+Parkinsons,1991,101721.5
+Parkinsons,1992,99223.4
+Parkinsons,1993,95944.1
+Parkinsons,1994,93527.6
+Parkinsons,1995,91249.3
+Parkinsons,1996,107585.4
+Parkinsons,1997,111011
+Parkinsons,1998,114612.4
+Parkinsons,1999,118631.9
+Parkinsons,2000,122924
+Parkinsons,2001,127682.9
+Parkinsons,2002,133107
+Parkinsons,2003,137665.5
+Parkinsons,2004,140936.7
+Parkinsons,2005,146378.6
+Parkinsons,2006,150239.3
+Parkinsons,2007,155047.3
+Parkinsons,2008,161178.8
+Parkinsons,2009,165708.2
+Parkinsons,2010,170884.9
+Parkinsons,2011,176057.3
+Parkinsons,2012,181437.1
+Parkinsons,2013,187765
+Parkinsons,2014,193476
+Parkinsons,2015,198926
+Parkinsons,2016,204285.6
+Parkinsons,2017,209431.2
+Parkinsons,2018,216767.8
+Parkinsons,2019,223710.1
+Nutritional deficiencies,1990,392755.6
+Nutritional deficiencies,1991,357821.5
+Nutritional deficiencies,1992,371801.2
+Nutritional deficiencies,1993,386919.6
+Nutritional deficiencies,1994,403411.3
+Nutritional deficiencies,1995,418962.3
+Nutritional deficiencies,1996,365396.1
+Nutritional deficiencies,1997,351749.4
+Nutritional deficiencies,1998,336264.2
+Nutritional deficiencies,1999,320849.3
+Nutritional deficiencies,2000,306805.5
+Nutritional deficiencies,2001,292470.3
+Nutritional deficiencies,2002,278621.7
+Nutritional deficiencies,2003,226953.1
+Nutritional deficiencies,2004,214030.7
+Nutritional deficiencies,2005,204548
+Nutritional deficiencies,2006,196920.5
+Nutritional deficiencies,2007,188854.3
+Nutritional deficiencies,2008,182653.4
+Nutritional deficiencies,2009,175873.2
+Nutritional deficiencies,2010,175293.9
+Nutritional deficiencies,2011,171214.7
+Nutritional deficiencies,2012,163101.8
+Nutritional deficiencies,2013,159583.9
+Nutritional deficiencies,2014,155837.1
+Nutritional deficiencies,2015,152818.1
+Nutritional deficiencies,2016,149737.1
+Nutritional deficiencies,2017,146635.8
+Nutritional deficiencies,2018,141906.3
+Nutritional deficiencies,2019,138556.2
+Cardiovascular diseases,1990,7919469.6
+Cardiovascular diseases,1991,7866369.3
+Cardiovascular diseases,1992,7744466.3
+Cardiovascular diseases,1993,7535789.3
+Cardiovascular diseases,1994,7418138.2
+Cardiovascular diseases,1995,7331748.9
+Cardiovascular diseases,1996,7961526
+Cardiovascular diseases,1997,8030036.5
+Cardiovascular diseases,1998,8097791.9
+Cardiovascular diseases,1999,8243160.9
+Cardiovascular diseases,2000,8370631
+Cardiovascular diseases,2001,8497541.3
+Cardiovascular diseases,2002,8676091.6
+Cardiovascular diseases,2003,8790580.6
+Cardiovascular diseases,2004,8794788.7
+Cardiovascular diseases,2005,8934012.1
+Cardiovascular diseases,2006,8923108.6
+Cardiovascular diseases,2007,8991048.1
+Cardiovascular diseases,2008,9154579.8
+Cardiovascular diseases,2009,9239564.9
+Cardiovascular diseases,2010,9404368.1
+Cardiovascular diseases,2011,9522721.5
+Cardiovascular diseases,2012,9644149.2
+Cardiovascular diseases,2013,9786796.9
+Cardiovascular diseases,2014,9916380.7
+Cardiovascular diseases,2015,10131400
+Cardiovascular diseases,2016,10311951
+Cardiovascular diseases,2017,10479251.8
+Cardiovascular diseases,2018,10735104.7
+Cardiovascular diseases,2019,10996878.1
+Caner,1990,5760732
+Caner,1991,5778924.732
+Caner,1992,5797135.657
+Caner,1993,5815364.792
+Caner,1994,5833612.157
+Caner,1995,5851877.769
+Caner,1996,5870161.647
+Caner,1997,5888463.809
+Caner,1998,5906784.273
+Caner,1999,5925123.057
+Caner,2000,5943480.18
+Caner,2001,5961855.66
+Caner,2002,5980249.516
+Caner,2003,5998661.765
+Caner,2004,6017092.427
+Caner,2005,6035541.519
+Caner,2006,6054009.061
+Caner,2007,6072495.07
+Caner,2008,6090999.565
+Caner,2009,6109522.565
+Caner,2010,6128064.087
+Caner,2011,6146624.151
+Caner,2012,6165202.775
+Caner,2013,6183799.978
+Caner,2014,6202415.778
+Caner,2015,6221050.194
+Caner,2016,6239703.244
+Caner,2017,6258374.947
+Caner,2018,6277065.322
+Caner,2019,6295774.388
+Diabeties ,1990,460789.3
+Diabeties ,1991,447974.7
+Diabeties ,1992,434664.6
+Diabeties ,1993,419539.9
+Diabeties ,1994,406573.7
+Diabeties ,1995,395669
+Diabeties ,1996,475546.6
+Diabeties ,1997,492456.1
+Diabeties ,1998,508056
+Diabeties ,1999,522758.4
+Diabeties ,2000,537989.6
+Diabeties ,2001,554990.5
+Diabeties ,2002,575977.3
+Diabeties ,2003,593206.1
+Diabeties ,2004,602668.7
+Diabeties ,2005,621584.1
+Diabeties ,2006,632588.8
+Diabeties ,2007,644736.8
+Diabeties ,2008,661782.2
+Diabeties ,2009,672996.6
+Diabeties ,2010,685836.3
+Diabeties ,2011,704136.7
+Diabeties ,2012,726242.5
+Diabeties ,2013,749570.9
+Diabeties ,2014,773991.1
+Diabeties ,2015,800223.9
+Diabeties ,2016,826942.1
+Diabeties ,2017,851217.7
+Diabeties ,2018,878558.4
+Diabeties ,2019,906548.2
+Digestive disease,1990,1170988.8
+Digestive disease,1991,1161655
+Digestive disease,1992,1145655.3
+Digestive disease,1993,1124722.7
+Digestive disease,1994,1109885.4
+Digestive disease,1995,1096427.3
+Digestive disease,1996,1177142.1
+Digestive disease,1997,1188563.4
+Digestive disease,1998,1198193.8
+Digestive disease,1999,1211991.6
+Digestive disease,2000,1226378.4
+Digestive disease,2001,1242876.6
+Digestive disease,2002,1264027
+Digestive disease,2003,1281353.3
+Digestive disease,2004,1288504.8
+Digestive disease,2005,1311006.8
+Digestive disease,2006,1316033
+Digestive disease,2007,1325282.8
+Digestive disease,2008,1342336
+Digestive disease,2009,1341947
+Digestive disease,2010,1352409.1
+Digestive disease,2011,1362949.5
+Digestive disease,2012,1370286.1
+Digestive disease,2013,1381654.4
+Digestive disease,2014,1389953
+Digestive disease,2015,1413286.6
+Digestive disease,2016,1433490.5
+Digestive disease,2017,1455362.3
+Digestive disease,2018,1477430.1
+Digestive disease,2019,1501657.6

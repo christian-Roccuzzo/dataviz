@@ -1,0 +1,563 @@
+Column1,Food,Serving,calories
+,Chicken Marsala,1 serving (2301 g),2209
+,Goulash,1 serving (187 g),1887
+,Burger King Triple Whopper,1 burger (547 g),1471
+x,Burger King Double Whopper with Cheese,1 sandwich (399 g),994
+x,Veggie Patty,1 sandwich (247 g),963
+x,Flaxseed,1 cup (168 g),897
+,Burger King Double Whopper,1 burger (374 g),894
+,Durian,1 durian (602 g),885
+,Calzone,1 calzone (364 g),841
+,Wendy’s Baconator,1 burger (276 g),839
+,Freekeh,1 cup (160 g),832
+x,Sunflower Seeds,1 cup (140 g),818
+x,Kebab,1 kebab (360 g),774
+,Burger King Whopper with Cheese,1 burger (315 g),759
+x,Brown Rice,1 cup (195 g),757
+,Burger King Angry Whopper,1 burger (290 g),740
+,Meatloaf,1 loaf (284 g),721
+,Amaranth,1 cup (193 g),716
+x,Beef Pizza,1 slice (235 g),714
+,Wendy’s Son of Baconator,1 burger (218 g),700
+x,Mac and Cheese,1 serving (189 g),699
+x,Macaroni and Cheese,1 serving (189 g),699
+x,Chicken Pot Pie,1 pie (302 g),673
+,Burger King Whopper,1 burger (291 g),672
+,Whopper,1 burger (291 g),672
+,Brown Rice,1 cup (185 g),670
+x,Fried Rice,1 serving (356 g),662
+,Burger King Original Chicken Sandwich,1 sandwich (219 g),659
+x,Couscous,1 cup (173 g),650
+,Reuben Sandwich,1 sandwich (308 g),641
+,Arby’s Reuben,1 sandwich (308 g),641
+,Cobb Salad,1 serving (536 g),632
+,Kamut,1 cup (186 g),627
+x,Quinoa,1 cup (170 g),626
+,Mushroom Pizza,1 slice (288 g),611
+x,Spelt Semolina,1 cup (167 g),601
+x,Wheat Semolina,1 cup (167 g),601
+x,Buffalo Chicken Pizza,1 slice (238 g),600
+,BLT,1 item (240 g),593
+,Burger King Premium Alaskan Fish Sandwich,1 burger (228 g),591
+,Spelt,1 cup (174 g),588
+x,Fish and Chips,1 serving (300 g),585
+,Chop Suey,1 serving (340 g),585
+,Fish and Chips,1 serving (300 g),585
+,Buckwheat,1 cup (170 g),583
+x,Nachos with Cheese,10 nachos (188 g),575
+x,White Pizza,1 slice (232 g),571
+,Buckwheat Groats,1 cup (164 g),567
+x,Corn,1 cup (154 g),562
+x,McDonald’s Big Mac,1 burger (219 g),561
+,Barley,1 cup (157 g),556
+,Pearl Barley,1 cup (157 g),553
+,Pulled Pork Sandwich,1 sandwich (261 g),551
+,Polenta,1 cup (150 g),549
+,Bacon and Eggs,1 serving (214 g),539
+x,Cottage Pie,1 pie (376 g),523
+,Millet Flour,1 cup (140 g),521
+,Big N’ Tasty,1 sandwich (232 g),517
+x,Zinger,1 sandwich (202 g),517
+,Zinger Burger,1 sandwich (202 g),517
+,Poutine,1 serving (225 g),511
+,Cellophane Noodles,1 cup (140 g),491
+,Butter Chicken,1 tray (350 g),490
+,Arby’s Grand Turkey Club,1 sandwich (233 g),489
+,Cornstarch,1 cup (128 g),488
+,Biryani,1 cup (275 g),484
+,Millet,1 cup (128 g),484
+,Meatball Sandwich,1 sandwich (299 g),481
+,Spicy Italian,1 sandwich (219 g),480
+,Tortilla,1 tortilla (197 g),467
+,Bianca Pizza,1 slice (187 g),460
+,Pineapple,1 pineapple (905 g),453
+,Pineapple,1 pineapple (905 g),453
+,Chicken Pizziola,1 sandwich (320 g),451
+,McDonald’s McRib,1 sandwich (170 g),451
+,McRib,1 sandwich (170 g),451
+,Carvel,1 cup (212 g),449
+,Cornmeal,1 cup (122 g),442
+,Corn Dog,1 item (175 g),438
+,McDonald’s Double Cheeseburger,1 burger (155 g),437
+,Hummus,1 cup (246 g),435
+,Raisins,1 cup (145 g),434
+,Wheat Germ,1 cup (113 g),432
+,Fish Sandwich,1 sandwich (158 g),431
+,Chicken Fried Steak,1 steak (280 g),423
+,Rye Bran,1 cup (150 g),422
+,Macaroni,1 cup (114 g),422
+,Orange Chicken,1 serving (162 g),420
+,Wendy’s Jr. Bacon Cheeseburger,1 burger (161 g),420
+,Chimichanga,1 item (180 g),418
+,Double Cheeseburger,1 burger (155 g),414
+,Soursop Fruit,1 soursop fruit (625 g),413
+,Cheeseburger,1 burger (156 g),410
+,Chicken Sandwich,1 sandwich (170 g),410
+,Italian BMT,1 sandwich (224 g),410
+,Whole Grain Wheat,1 cup (120 g),407
+,McDonald’s McDouble,1 burger (160 g),403
+,Peking Duck,1/2 duck (178 g),401
+,Smarties McFlurry,1 mcflurry (202 g),400
+,Filet-o-Fish,1 sandwich (142 g),400
+,Vegetable Pizza,1 slice (156 g),399
+,Vegetarian Pizza,1 slice (156 g),399
+,Curly Fries,1 serving (128 g),398
+,Sloppy Joes,1 bun (258 g),397
+,Chicken Caesar Salad,1 salad (309 g),392
+,Grilled Cheese Sandwich,1 sandwich (136 g),392
+,McDonald’s Filet-o-Fish,1 sandwich (142 g),391
+,Veggie Burger,1 burger (215 g),389
+,Wheat Starch,1 cup (110 g),386
+,Dippin Dots,1 cup (170 g),381
+,Ramen,"1 package, dry (85 g)",380
+,Pizza Hut Stuffed Crust Pizza,1 slice (149 g),380
+,Stuffed Crust Pizza,1 slice (149 g),380
+,Bean Burrito,1 burrito (190 g),380
+,Pad Thai,1 cup (250 g),375
+,Spaghetti Bolognese,1 serving (283 g),374
+,Instant Ramen,1 package (85 g),371
+,Ramen,1 package (85 g),371
+,Chicken Teriyaki Sandwich,1 sandwich (266 g),367
+,Sausage Roll,1 roll (103 g),361
+,Baby Back Ribs,1 serving (139 g),360
+,BBQ Ribs,1 rib (141 g),360
+,Drumsticks,1 cone (141 g),360
+,Arby’s Roast Beef Classic,1 burger (154 g),360
+,Arby’s Roast Beef Max,1 burger (154 g),360
+,McDonald’s McChicken,1 burger (143 g),359
+,Dominos Philly Cheese Steak Pizza,1 slice (159 g),356
+,Ham and Cheese Sandwich,1 sandwich (146 g),352
+,Ham Sandwich,1 sandwich (146 g),352
+,Spring Roll,1 roll (140 g),350
+,Spring Rolls,1 roll (140 g),350
+,Corned Beef Hash,1 can (213 g),349
+,Burger King Whopper Jr.,1 burger (148 g),346
+,Dairy Milk McFlurry,1 mcflurry (183 g),340
+,McFlurry Oreo,1 mcflurry (183 g),340
+,Bean Stew,1 cup (252 g),335
+,Hot Fudge Sundae,1 sundae (179 g),333
+,Quattro Formaggi Pizza,1 slice (133 g),330
+,Cold Stone Creamery,1 scoop (142 g),329
+,Cheese Tortellini,1 cup (113 g),329
+,Tortellini,1 cup (113 g),329
+,Magnum Double Chocolate,1 magnum (86 g),327
+,Burrito,1 burrito (200 g),326
+,Chicken Fajita,1 sandwich (222 g),326
+,Black Rice,1/2 cup (100 g),323
+,Enchiladas,1 enchilada (192 g),323
+,Sicilian Pizza,1 slice (133 g),321
+,Avocado,1 avocado (200 g),320
+,Spinach Tortellini,1 cup (102 g),320
+,Avocado,1 avocado (200 g),320
+,Crunchie McFlurry,1 mcflurry (183 g),318
+,Tuna Pizza,1 slice (125 g),318
+,BBQ Pizza,1 slice (140 g),314
+,Deep Dish Pizza,1 slice (118 g),313
+,Hot Dog,1 hot dog (116 g),312
+,Subway Club Sandwich,1 sandwich (238 g),312
+,BBQ Chicken Pizza,1 slice (132 g),309
+,Chicken Pizza,1 slice (132 g),309
+,Magnum Double Caramel,1 magnum (86 g),305
+,Pizza Hut Supreme Pizza,1 slice (123 g),305
+,Dal,1/2 cup (92 g),304
+,Philly Cheese Steak,1 sandwich (120 g),300
+,Wholegrain Oat,1 cup (80 g),300
+,Shells,1 cup (85 g),300
+,McDonald’s Cheeseburger,1 sandwich (114 g),300
+,Pork Chop,1 chop (131 g),295
+,Fajita,1 serving (248 g),290
+,Meat Pie,1 pie (120 g),290
+,Magnum Gold,1 magnum (85 g),290
+,Rocky Road Ice Cream,1 scoop (113 g),290
+,McDonald’s McMuffi Egg,1 burger (129 g),290
+,Wendy’s Jr. Cheeseburger,1 burger (129 g),290
+,Dosa,1 serving (435 g),287
+,Lasagne,1 serving (215 g),284
+,Spelt Bran,1 cup (160 g),283
+,Bratwurst,1 piece (85 g),283
+,Strawberry Sundae,1 sundae (178 g),281
+,Butter Pecan Ice Cream,1 scoop (113 g),280
+,Grilled Pizza,1 slice (124 g),280
+,Hamburger,1 sandwich (110 g),279
+,Pizza,1 slice (102 g),272
+,Magnum Almond,1 magnum (86 g),271
+,Grilled Chicken Salad,1 salad (305 g),268
+,Chili con Carne,1 cup (253 g),266
+,Ice Cream Sandwich,1 bar (112 g),265
+,Broccoli Cheese Soup,1 can (303 g),264
+,Veggie Pizza,1 slice (114 g),263
+,Naan,1 bread (84 g),260
+,Paratha,1 paratha (80 g),260
+,Magnum,1 magnum (86 g),258
+,Magnum White,1 magnum (86 g),255
+,Calabrese Pizza,1 slice (108 g),254
+,Ice Cream Sundae,1 sundae (178 g),253
+,Chicken Parmesan,1 piece (227 g),250
+,Jambalaya,1 cup (250 g),250
+,Four Cheese Pizza,1 slice (113 g),250
+,Lobster Bisque Soup,1 cup (248 g),248
+,Napoli Pizza,1 slice (123 g),248
+,Baked Beans,1 cup (260 g),244
+,Roast Dinner,1 slice (121 g),240
+,Ciao Bella,1 cup (220 g),240
+,Pomegranate,1 pomegranate (282 g),234
+,Pomegranate,1 pomegranate (282 g),234
+,Dampfnudel,1 dampfnudel (85 g),233
+,Oat Bran,1 cup (94 g),231
+,Pomelo,1 pomelo (609 g),231
+,Vanilla Cone,1 cone (142 g),230
+,Veggie Delight,1 sandwich (166 g),229
+,Cabbage,1 head (908 g),227
+,Durum Wheat Semolina,2 oz. (56 g),222
+,French Fries,1 serving (71 g),222
+,Succotash,1 cup (192 g),221
+,Plantains,1 plantain (179 g),218
+,Plantain,1 plantain (179 g),218
+,Papaya,1 fruit (500 g),215
+,Taco,1 taco (98 g),213
+,Ben and Jerry’s,1 scoop (92 g),210
+,Broccoli,1 bunch (608 g),207
+,Orecchiette,2 oz. (56 g),207
+,Penne Rigate,2 oz. (56 g),207
+,Spaghetti,2 oz. (56 g),207
+,Tagliatelle,2 oz. (56 g),207
+,Broccoli Soup,1 cup (237 g),206
+,Spaetzle,2 oz. (56 g),206
+,Spirelli,2 oz. (56 g),206
+,Vermicelli,2 oz. (56 g),206
+,McFlurry,1 mcflurry (134 g),205
+,Mango,1 mango (336 g),202
+,Mango,1 mango (336 g),202
+,Paella,1/2 package (128 g),200
+,Peanut Butter Sandwich,1 sandwich (49 g),200
+,Farfalle,2 oz. (56 g),200
+,Linguine,2 oz. (56 g),200
+,Manicotti,2 oz. (56 g),200
+,Orzo,2 oz. (56 g),200
+,Pierogi,3 pierogi (100 g),200
+,Egg Roll,1 roll (80 g),200
+,Tandoori Chicken,1 serving (175 g),198
+,Capellini,2 oz. (56 g),198
+,Fettuccine,2 oz. (56 g),198
+,Rigatoni,2 oz. (56 g),198
+,Rotini,2 oz. (56 g),198
+,Fusilli,2 oz. (56 g),197
+,Penne,2 oz. (56 g),197
+,Whole Grain Spaghetti,2 oz. (56 g),197
+,Ziti,2 oz. (56 g),197
+,Chicken Tikka Masala,1 serving (241 g),195
+,Whole Grain Noodles,2 oz. (56 g),194
+,Potato Soup,1 serving (240 g),192
+,Capricciosa Pizza,1 slice (74 g),192
+,Soft Serve,1 cup (86 g),191
+,Pea Soup,1 cup (253 g),190
+,Pea Soup,1 cup (253 g),190
+,Turkey Hill,1 sandwich (70 g),190
+,Shrimp Pizza,1 slice (91 g),190
+,Beef Stew,1 cup (196 g),186
+,Seafood Pizza,1 slice (76 g),186
+,Double Rainbow,1 scoop (72 g),185
+,Wasabi,1 root (169 g),184
+,Pepperoni Pizza,1 slice (71 g),181
+,Salami Pizza,1 slice (71 g),181
+,Snickers Ice Cream,1 bar (50 g),180
+,Schwan’s,1 scoop (72 g),177
+,Sausage Pizza,1 slice (72 g),177
+,Cherimoya,1 cherimoya (235 g),176
+,Mashed Potatoes,1 cup (210 g),174
+,New York Style Pizza,1 slice (103 g),174
+,Margherita Pizza,1 slice (63 g),173
+,Mint Chocolate Chip Ice Cream,1 scoop (72 g),172
+,Lasagna,1 piece (130 g),172
+,Tortilla Wrap,1 wrap (63 g),171
+,Baskin-Robbins,1 scoop (71 g),170
+,Coffee Ice Cream,1 scoop (72 g),170
+,Strawberry Ice Cream,1 scoop (72 g),170
+,Cheese Pizza,1 slice (63 g),168
+,Applesauce,1 cup (246 g),167
+,Magnolia,1 scoop (72 g),166
+,Red Pepper Pizza,1 slice (86 g),165
+,Potato,1 potato (213 g),164
+,Ice Milk,1 scoop (103 g),164
+,Golden Mushroom Soup,1 cup (248 g),161
+,Tortilla Chips,20 chips (32 g),160
+,Shepherds Pie,1 pie (227 g),159
+,Low Carb Pasta,2 oz. (56 g),158
+,Thin Crust Pizza,1 slice (60 g),157
+,Chocolate Ice Cream,1 scoop (72 g),156
+,Chocolate Chip Ice Cream,1 scoop (72 g),155
+,Sundae,1 scoop (72 g),155
+,Hawaiian Pizza,1 slice (134 g),154
+,Mozzarella Pizza,1 slice (62 g),154
+,Spinach Feta Pizza,1 slice (62 g),150
+,Creamed Spinach,1 cup (200 g),148
+,Rutabaga,1 rutabaga (386 g),147
+,Winter Squash,1 squash (431 g),147
+,Thai Soup,1 cup (245 g),147
+,Egg Noodles,1 cup (38 g),146
+,French Vanilla Ice Cream,1 scoop (72 g),145
+,Vanilla Ice Cream,1 scoop (72 g),145
+,Spinach Pizza,1 slice (62 g),145
+,Jackfruit,1 cup (151 g),143
+,Jackfruit,1 cup (151 g),143
+,Tarte Flambée,1 square (56 g),142
+,BBQ Rib,1 rib (67 g),142
+,Sapodilla,1 sapodilla (170 g),141
+,Cream of Broccoli Soup,1 serving (310 g),140
+,Friendly’s,1 scoop (66 g),140
+,Savoury Biscuits,40 grams (40 g),139
+,Lentil Soup,1 cup (248 g),139
+,Goat Cheese Pizza,1 slice (63 g),138
+,Custard Apple,1 custard apple (135 g),136
+,Potato Salad,1/3 cup (95 g),136
+,Chinese Cabbage,1 head (840 g),134
+,Ravioli,5 ravioli (66 g),134
+,Shrimp Cocktail,1 oz. (28 g),130
+,Wheat Germ Oil,1 tbsp (14 ml),130
+,Wedding Soup,1 cup (245 g),130
+,Cookie Dough Ice Cream,1/2 cup (65 g),130
+,Pizza Dough,2 oz. (57 g),130
+,Parsnips,1 parsnip (170 g),128
+,Menhaden Oil,1 tbsp (14 ml),128
+,Salmon Oil,1 tbsp (14 ml),128
+,Fruit salad,1 cup (249 g),125
+,Wheat Bran,1 cup (58 g),125
+,Argan Oil,1 tbsp (14 ml),125
+,Apricot Kernel Oil,1 tbsp (14 ml),124
+,Babassu Oil,1 tbsp (14 ml),124
+,Canola Oil,1 tbsp (14 ml),124
+,Flaxseed Oil,1 tbsp (14 ml),124
+,Grape Seed Oil,1 tbsp (14 ml),124
+,Hazelnut Oil,1 tbsp (14 ml),124
+,Mustard Oil,1 tbsp (14 ml),124
+,Oat Oil,1 tbsp (14 ml),124
+,Poppy Seed Oil,1 tbsp (14 ml),124
+,Rice Bran Oil,1 tbsp (14 ml),124
+,Sesame Oil,1 tbsp (14 ml),124
+,Shea Oil,1 tbsp (14 ml),124
+,Sunflower Oil,1 tbsp (14 ml),124
+,Tomato Seed Oil,1 tbsp (14 ml),124
+,Walnut Oil,1 tbsp (14 ml),124
+,Almond Oil,1 tbsp (14 ml),123
+,Cottonseed Oil,1 tbsp (14 ml),123
+,Palm Kernel Oil,1 tbsp (14 ml),123
+,Palm Oil,1 tbsp (14 ml),123
+,Pumpkin Seed Oil,1 tbsp (14 ml),123
+,Soy Oil,1 tbsp (14 ml),123
+,Soy Noodles,2 oz. (56 g),121
+,Avocado Oil,1 tbsp (14 ml),120
+,Coconut Oil,1 tbsp (14 ml),120
+,Corn Oil,1 tbsp (15 ml),120
+,Olive Oil,1 tbsp (15 ml),120
+,Peanut Oil,1 tbsp (14 ml),120
+,Safflower Oil,1 tbsp (14 ml),120
+,Vegetable Oil,1 tbsp (15 ml),120
+,Meatball Soup,1 cup (245 g),120
+,Dragon Fruit,1 dragonfruit (200 g),120
+,Durum Wheat Semolina,1 tbsp (30 g),119
+,Linseed Oil,1 tbsp (14 ml),117
+,Cream of Chicken Soup,1 cup (244 g),117
+,Tomato Rice Soup,1 cup (247 g),116
+,Chicken Breast,1 piece (71 g),116
+,Aubergine,1 aubergine (458 g),115
+,Eggplant,1 eggplant (458 g),115
+,Kumara,1 kumara (130 g),112
+,Sweet Potato,1 potato (130 g),112
+,Kiwi,1 liwi (183 g),112
+,Kiwi,1 kiwi (183 g),112
+,Banana,1 banana (125 g),111
+,Banana,1 banana (125 g),111
+,Corn Waffles,1 waffle (40 g),110
+,Gourd,1 gourd (771 g),108
+,Kohlrabi,1 kohlrabi (400 g),108
+,Glass Noodles,2 oz. (56 g),108
+,Samosa,1 samosa (50 g),107
+,Cream of Onion Soup,1 cup (244 g),107
+,Grapes,1 cup (151 g),104
+,Gluten,1 oz. (28 g),104
+,Mostaccioli,2 oz. (56 g),103
+,Pear,1 pear (178 g),101
+,Black Pudding,1 pudding (40 g),101
+,Sausage Rolls,1 roll (34 g),101
+,Sloppy Joe,1/2 cup (142 g),101
+,Sago,1 oz. (28 g),99
+,Breadfruit,1/4 breadfruit (96 g),99
+,Cream of Mushroom Soup,1 cup (248 g),97
+,Apple,1 apple (182 g),95
+,Shortbread,1 cookie (19 g),95
+,Carrot Ginger Soup,1 serving (381 g),95
+,Carrot Soup,1 serving (381 g),95
+,McDonald’s Mighty Wings,1 wing (31 g),95
+,Chicken Wings,1 piece (29 g),94
+,Cream of Celery Soup,1 cup (248 g),92
+,Cappelletti,2 oz. (56 g),92
+,Lettuce,1 head (600 g),90
+,Squash,1 squash (196 g),88
+,Endive,1 head (513 g),87
+,Watermelon,1 wedge (286 g),86
+,Watermelon,1 wedge (286 g),86
+,Cream of Asparagus Soup,1 cup (244 g),85
+,Mushroom Soup,1 cup (244 g),85
+,Blueberries,1 cup (148 g),84
+,Yorkshire Pudding,1 pudding (15 g),83
+,Beef Noodle Soup,1 cup (244 g),83
+,Noodle Soup,1 cup (244 g),83
+,Minestrone,1 cup (241 g),82
+,Cannelloni,2 oz. (56 g),82
+,Millet Gruel,1 cup (174 g),80
+,Scotch Broth,1 cup (241 g),80
+,Healthy Choice,1 bar (64 g),80
+,Peas,1 cup (98 g),79
+,Spinach,1 bunch (340 g),78
+,Chicken Vegetable Soup,1 cup (248 g),77
+,Vegetable Beef Soup,1 cup (244 g),76
+,Fried Shrimp,1 shrimp (27 g),75
+,Solero,1 solero (75 g),75
+,Asian Pear,1 pear (178 g),75
+,Tomato Soup,1 cup (248 g),74
+,Fennel,1 bulb (234 g),73
+,Cream of Potato Soup,1 cup (244 g),73
+,Pumpkin Soup,1 cup (245 g),71
+,Blood Oranges,1 serving (140 g),70
+,Minneola,1 minneola (109 g),70
+,Beef Soup,1 cup (213 g),70
+,Cabbage Soup,1 cup (245 g),69
+,Oxtail Soup,1 cup (244 g),68
+,Vegetable Soup,1 cup (241 g),67
+,Cucumber,1 cucumber (410 g),66
+,Nectarine,1 nectarine (150 g),66
+,Raspberries,1 cup (123 g),64
+,Currants,1 cup (112 g),63
+,Blackberries,1 cup (144 g),62
+,Orange,1 orange (131 g),62
+,Deviled Eggs,1/2 egg (31 g),62
+,Alphabet Soup,1 cup (248 g),62
+,Chicken Noodle Soup,1 cup (248 g),62
+,Artichoke,1 artichoke (128 g),60
+,Mulberries,1 cup (140 g),60
+,Peach,1 peach (150 g),59
+,Chicken Nuggets,1 piece (20 g),59
+,Chicken with Rice Soup,1 cup (243 g),58
+,Mangosteen,1 serving (80 g),58
+,Lasagne Sheets,1 sheet (21 g),57
+,Falafel,1 patty (17 g),57
+,Chicken Gumbo Soup,1 cup (244 g),56
+,Creamy Chicken Noodle Soup,1 cup (245 g),56
+,French Onion Soup,1 cup (243 g),56
+,Onion Soup,1 cup (243 g),56
+,Dumpling Dough,2 oz. (56 g),55
+,Leek,1 leek (89 g),54
+,Quince,1 quince (92 g),52
+,Grapefruit,1/2 grapefruit (123 g),52
+,Pink Grapefruit,1/2 grapefruit (123 g),52
+,Pumpkin,1 pumpkin (196 g),51
+,Strawberries,1 cup (152 g),49
+,Mandarin Oranges,1 madarin orange (90 g),48
+,Chicken McNuggets,1 nugget (16 g),48
+,McDonald’s Chicken Nuggets,1 nugget (16 g),48
+,Mandarin Oranges,1 mandarin orange (88 g),47
+,Tangerine,1 tangerine (88 g),47
+,Cranberries,1 cup (100 g),46
+,Pretzel Sticks,20 sticks (12 g),46
+,Honeydew,1 wedge (125 g),45
+,Smoked Salmon,1 oz. (28.35 g),44
+,Ravioli,2 oz. (56 g),43
+,Rusk,1 rusk (10 g),41
+,Bouillon,1 cup (244 g),39
+,Chicken Broth,1 cup (244 g),39
+,Chicken Stock,1 cup (244 g),39
+,Chicory,1 head (53 g),38
+,Figs,1 fig (50 g),37
+,Guava,1 guava (55 g),37
+,Dim Sum,1 piece (19 g),37
+,Guava,1 guava (55 g),37
+,Beetroot,1 beet (82 g),35
+,Clementine,1 clementine (74 g),35
+,Cracker,1 cracker (7 g),35
+,Pizza Rolls,1 roll (14 g),35
+,Casaba Melon,1 wedge (125 g),35
+,Green Beans,1 cup (110 g),34
+,Onion,1 onion (85 g),34
+,Turnip Greens,1 turnip green (170 g),34
+,Turnips,1 turnip (122 g),34
+,Courgette,1 courgette (196 g),33
+,Kale,"1 cup, chopped (67 g)",33
+,Zucchini,1 zucchini (196 g),33
+,California Roll,1 roll (35 g),33
+,Persimmon,1 fruit (25 g),32
+,Barley Groats,1 cup (31 g),31
+,Plum,1 plum (66 g),30
+,Mini Milk,1 mini milk (25 g),30
+,Galia Melon,1 melon (130 g),30
+,Turkey,1 oz. (28.35 g),29
+,Starfruit,1 star fruit (91 g),28
+,Star Fruit,1 starfruit (91 g),28
+,Carrot,1 carrot (61 g),25
+,Onion Rings,1 ring (6.5 g),25
+,Tuna,1 oz. (28.35 g),24
+,Cantaloupe,1 wedge (69 g),23
+,Roast Beef,1 slice (21 g),23
+,Cantaloupe Melon,1 wedge (69 g),23
+,Feijoa,1 feijoa (42 g),23
+,Muskmelon,1 wedge (69 g),23
+,Jujube,1 oz. (28.35 g),22
+,Cherry Tomato,1 cherry tomato (20 g),20
+,Pepper,1 pepper (75 g),20
+,Tomato,1 tomato (111 g),20
+,Acai,1 oz. (28.35 g),20
+,Dates,1 date (7.1 g),20
+,Lime,1 lime (67 g),20
+,Grissini,1 grissini (5 g),20
+,Shallots,1 shallot (25 g),18
+,Apricot,1 apricot (35 g),17
+,Lemon,1 lemon (58 g),17
+,Passion Fruit,1 passoin fruit (18 g),17
+,Maracuya,1 maracuya (18 g),17
+,Passion Fruit,1 passion fruit (18 g),17
+,Prawn Crackers,1 cracker (3 g),16
+,Bell Pepper,1 pepper (73 g),15
+,Mustard Greens,"1 cup, chopped (56 g)",15
+,Noni,1 oz. (28.4 g),15
+,Collard Greens,1 cup (45 g),13
+,Kumquat,1 kumquat (19 g),13
+,Capsicum,1 pepper (45 g),12
+,Collard Greens,"1 cup, raw (36 g)",12
+,Vegetable Broth,1 cup (235 g),12
+,Vegetable Stock,1 cup (235 g),12
+,Rhubarb,1 stalk (51 g),11
+,Wheat Gluten,1 tsp (3 g),10
+,Chicken Bouillon,1 cup (241 g),10
+,Shirataki Noodles,2 oz. (56 g),10
+,Chard,1 leaf (48 g),9
+,Gherkin,1 gherkin (65 g),9
+,Brussels Sprouts,1 sprout (19 g),8
+,Maraschino Cherries,1 cherry (5 g),8
+,Prickly Pear,"1 pad, peeled (19 g)",8
+,Horseradish,1 tbsp (15 g),7
+,Red Cabbage,1 leaf (22 g),7
+,Lychees,1 lychee (10 g),7
+,Rambutan,1 rambutan (9 g),7
+,Beef Bouillon,1 cup (240 g),7
+,Lychee,1 lychee (10 g),7
+,Rambutan,1 rambutan (9 g),7
+,Celery,1 stalk (40 g),6
+,Green Onion,1 green onion (15 g),5
+,Tamarind,1 tamarind (2 g),5
+,Tamarind,1 tamarind (2 g),5
+,Garlic,1 clove (3 g),4
+,Okra,1 pod (12 g),4
+,Cherries,1 cherry (8 g),4
+,Cauliflower,1 floweret (13 g),3
+,Asparagus,1 spear (12 g),2
+,Black Olives,1 olive (2.7 g),2
+,Green Olives,1 olive (2.7 g),2
+,Olives,1 olive (2.7 g),2
+,Greengage,1 fruit (5 g),2
+,Olives,1 olive (2.7 g),2
+,Physalis,1 berry (5 g),2
+,Arugula,1 leaf (2 g),1
+,Chives,"1 tbsp, chopped (3 g)",1
+,Mushrooms,1 mushroom (5.4 g),1
+,Nori,1 sheet (2.6 g),1
+,Radishes,1 radish (4.5 g),1
+,Acerola,1 acerola (4.8 g),1

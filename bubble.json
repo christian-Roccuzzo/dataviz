@@ -1,0 +1,190 @@
+
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
+    "width": 800,
+    "height": 400,
+    "title": "Calories Vs Percetnage Vs Death%",
+    "data": {
+        "url": "obese_vs_cals.csv"
+    },
+    "params": [
+        {
+            "name": "Year",
+            "value": 1990,
+            "bind": {
+                "input": "range",
+                "min": 1990,
+                "max": 2019,
+                "step": 1,
+                "name": "Select year: "
+            }
+        },
+        {
+            "name": "Continent_selection",
+            "bind": {
+                "input": "select",
+                "options": [
+                null,
+                "North America",
+                "South America",
+                "Europe",
+                "Africa",
+                "Asia",
+                "Oceania"
+                ],
+                "labels":[
+                "Show All",
+                "North America",
+                "South America",
+                "Europe",
+                "Africa",
+                "Asia",
+                "Oceania"
+                ],
+                "name": "Continent Selection: "
+                }
+        }
+    ],
+    "transform": [
+        {
+            "filter": "datum.Year==Year"
+        },
+        {"filter": "Continent_selection == null || datum.Continent == Continent_selection"}
+
+    ],
+    "encoding": {
+        "x": {
+            "field": "Calories",
+            "type": "quantitative",
+            "title": "cals",
+            "scale": {
+                "domain": [
+                    1300,
+                    4000
+                ]
+            }
+        },
+        "y": {
+            "field": "Obese",
+            "title": "Percent Obese",
+            "type": "quantitative",
+            "scale": {
+                "domain": [
+                    0,
+                    85
+                ]
+            }
+        }
+    },
+    "layer": [
+        {
+            "mark": "circle",
+            "encoding": {
+                "size": {
+                    "field": "Death",
+                    "type": "quantitative",
+                    "scale": {
+                        "type": "threshold",
+                        "domain": [
+                            0,
+                            2,
+                            6,
+                            8,
+                            10,
+                            12,
+                            14,
+                            16,
+                            18,
+                            20
+                        ],
+                        "range": [
+                            1,
+                            10,
+                            50,
+                            100,
+                            150,
+                            200,
+                            250,
+                            300,
+                            350,
+                            400
+                        ]
+                    }
+                },
+                "color": {
+                    "field": "Continent",
+                    "type": "nominal"
+                },
+                "tooltip": [
+                    {
+                        "field": "Entity",
+                        "type": "nominal",
+                        "title": "Country"
+                    },
+                    {
+                        "field": "Continent",
+                        "type": "nominal"
+                    },
+                    {
+                        "field": "Calories",
+                        "type": "quantitative"
+                    },
+                    {
+                        "field": "Obese",
+                        "type": "quantitative",
+                        "title": "Percent Obese"
+                    },
+                    {
+                        "field": "Death",
+                        "type": "quantitative",
+                        "title": "Death rate"
+                    },
+                    {
+                        "field": "Year",
+                        "type": "quantitative"
+                    }
+                ]
+            }
+        },
+        {
+            "mark": {
+                "type": "text",
+                "align": "left",
+                "baseline": "middle",
+                "dx": 10,
+                "fontSize": 11
+            },
+            "encoding": {
+                "text": {
+                    "field": "Code",
+                    "type": "nominal"
+                },
+                "color": {
+                    "value": "black"
+                }
+            }
+        }
+    ],
+    "config": {
+        "view": {
+          "stroke": null
+        },
+        "axis": {
+          "labelFont": "Oxygen",
+          "titleFont": "Oxygen"
+        },
+        "legend": {
+          "labelFont": "Oxygen",
+          "titleFont": "Oxygen"
+        },
+        "header": {
+          "labelFont": "Oxygen",
+          "titleFont": "Oxygen"
+        },
+        "title": {
+          "font": "Oxygen",
+          "fontSize": 16,
+          "fontWeight": 600
+        }
+      }
+}
